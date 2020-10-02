@@ -30,7 +30,7 @@ More information could be found at the following places:
 * Accessing SoundCloud is done through the [SoundCloud API] (http://developers.soundcloud.com/docs).
 
 
-Main Features
+Main Feature
 -------------
 
 The main features currently supported are:
